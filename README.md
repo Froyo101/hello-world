@@ -1,3 +1,3 @@
 # hello-world
-learning to use github
-now i know how to make commits
+
+Hi, this is a sample branched readme. It should be merged into main soon.
