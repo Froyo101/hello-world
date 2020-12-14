@@ -1,3 +1,3 @@
 # hello-world
 
-Hi, this is a sample branched readme. It should be merged into main soon.
+This is a locally made readme, created in a branch of its own
